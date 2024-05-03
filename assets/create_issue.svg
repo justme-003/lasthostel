@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg width="82" height="82" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="81" id="filter0_d_29_238" width="81" x="0.5" y="0.5">
+   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+   <feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+   <feOffset dx="1" dy="4"/>
+   <feGaussianBlur stdDeviation="4"/>
+   <feComposite in2="hardAlpha" operator="out"/>
+   <feColorMatrix type="matrix" values="0 0 0 0 0.301961 0 0 0 0 0.631373 0 0 0 0 0.968627 0 0 0 0.3 0"/>
+   <feBlend in2="BackgroundImageFix"/>
+   <feBlend in="SourceGraphic" in2="effect1_dropShadow_29_238"/>
+  </filter>
+  <clipPath id="clip0_29_238">
+   <rect fill="white" height="30" id="svg_1" transform="translate(25 22)" width="30"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g filter="url(#filter0_d_29_238)" id="svg_2">
+   <rect fill="#0e7ded" height="65" id="svg_3" rx="32.5" width="65" x="7.5" y="4.5"/>
+   <g clip-path="url(#clip0_29_238)" id="svg_4">
+    <path d="m46.25,44.83l-15,0l0,-15.28l8.75,0l0,-2.5l-8.75,0c-1.37,0 -2.5,1.13 -2.5,2.5l0,15c0,1.37 1.13,2.5 2.5,2.5l15,0c1.38,0 2.5,-1.13 2.5,-2.5l0,-8.75l-2.5,0l0,9.03z" fill="white" id="svg_5"/>
+    <path d="m48.75,23.3l-2.5,0l0,3.75l-3.75,0c0.01,0.01 0,2.5 0,2.5l3.75,0l0,3.74c0.01,0.01 2.5,0 2.5,0l0,-3.74l3.75,0l0,-2.5l-3.75,0l0,-3.75z" fill="white" id="svg_6"/>
+    <path d="m43.75,32.05l-10,0l0,2.5l10,0l0,-2.5z" fill="white" id="svg_7"/>
+    <path d="m33.75,35.8l0,2.5l10,0l0,-2.5l-3.75,0l-6.25,0z" fill="white" id="svg_8"/>
+    <path d="m43.75,39.55l-10,0l0,2.5l10,0l0,-2.5z" fill="white" id="svg_9"/>
+   </g>
+  </g>
+ </g>
+</svg>
